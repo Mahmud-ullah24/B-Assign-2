@@ -1,0 +1,31 @@
+.bc-1{background: #8A47F6;}
+.fc-1{color: #8A47F6;}
+
+.cap-f{
+    font-family: Nexa;
+    font-size: 74px;
+    font-weight: 900;
+    line-height: 92px;
+    text-align: left;
+}
+.about-img{
+    width: 48%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.pot-img{
+    float: left;
+    position: relative;
+}
+
+.pot-img img{
+    position: relative;
+    top: 0;
+}
+
+.say-img img{
+    width: 100%;
+}
